@@ -1,7 +1,5 @@
 # gezgineu
-
-A new Flutter project.
-
+Dönem Projesi için geliştirdiğim Flutter projem. Geliştirme günlügü ve detaylara Gezgineü Proje Geliştirme Raporu.docx dosyasından ulaşabilirsiniz.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
